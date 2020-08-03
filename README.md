@@ -2,7 +2,7 @@
 
 🥳 &nbsp;&nbsp;I'm Kara, the wonderful entustee of the username @kiraarghy.
 
-📄&nbsp;&nbsp;Check out my [CV](https://github.com/kiraarghy/cv/blob/master/README.md)
+📄&nbsp;&nbsp;Check out my [CV](https://github.com/kiraarghy/cv/blob/master/README.md).
 
 🎥 &nbsp;&nbsp;You may know of me from similar programs such as @FormidableLabs or [twitter](https://twitter.com/KiraArghy).
 
@@ -14,4 +14,4 @@
 
 ✊&nbsp;&nbsp;I'm also probably working on some sort of tech unions work through [TWC London](https://twitter.com/TechWorkersLDN).
 
-😄&nbsp;&nbsp;Pronouns She/Hers
+😄&nbsp;&nbsp;Pronouns She/Hers.
